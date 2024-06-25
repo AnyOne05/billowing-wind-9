@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.7.1",
+    "cookiecutter_context": {
+      "project_name": "Billowing Wind",
+      "project_slug": "billowing_wind_9",
+      "project_dash_slug": "billowing-wind-9",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "eduardo@example.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
